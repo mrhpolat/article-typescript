@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/mrhpolat/deneme-js#readme",
   "dependencies": {
-    "@types/mongodb": "^3.0.18"
+    "@types/mongodb": "^3.0.18",
+    "nconf": "^0.10.0",
+    "sequelize": "^4.37.7"
   }
 }
